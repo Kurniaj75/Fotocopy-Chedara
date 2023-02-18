@@ -45,6 +45,7 @@ body {
 
 .navbar .navbar-logo span {
   color: var(--primary);
+  flex-wrap: wrap;
 }
 
 .navbar .navbar-nav a {
